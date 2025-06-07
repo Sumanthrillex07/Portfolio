@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.243b895c.css",
+    "main.js": "/static/js/main.f010fa79.js",
+    "static/media/p7.png": "/static/media/p7.617793c54d3b0e90bfc9.png",
+    "static/media/dp-pic.jpeg": "/static/media/dp-pic.4ca6bb669323ebfb52e6.jpeg",
+    "static/media/t3.png": "/static/media/t3.0cc44875482321d8cd64.png",
+    "static/media/t4.png": "/static/media/t4.cf49428fba0ce4cef1c3.png",
+    "static/media/t5.png": "/static/media/t5.0777ceba9cfad51aba4b.png",
+    "static/media/p5.png": "/static/media/p5.5c28e02750ff94c37f80.png",
+    "static/media/t7.png": "/static/media/t7.b2f8aa8a87ef86df5f8d.png",
+    "static/media/t2.png": "/static/media/t2.c56ecbe1920aa21ee890.png",
+    "static/media/algou.png": "/static/media/algou.d1d5a53b011f0d08b05f.png",
+    "static/media/t1.png": "/static/media/t1.ee3cf7661b083c2a1458.png",
+    "static/media/t6.png": "/static/media/t6.3492ba6c4c872db9cdf3.png",
+    "static/media/mine.jpg": "/static/media/mine.55be4cc8f52ba4c95296.jpg",
+    "static/media/CV_2.pdf": "/static/media/CV_2.b545cfaecb1bc5bb18bf.pdf",
+    "static/media/p1.png": "/static/media/p1.4c5c64269b337f31a70a.png",
+    "static/media/p2.png": "/static/media/p2.b2ca474adf5b6e6b575c.png",
+    "static/media/p3.png": "/static/media/p3.ee0419e5ffd1138a37df.png",
+    "static/media/p6.png": "/static/media/p6.11dd243fff58067dedc4.png",
+    "static/media/p4.png": "/static/media/p4.2185c2d391438cc42f2d.png",
+    "static/media/p8.png": "/static/media/p8.81c3c9bf3d1f953a76e7.png",
+    "static/media/nits.jpg": "/static/media/nits.a2a0650ae898170a7428.jpg",
+    "static/media/Sun.svg": "/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "static/media/Moon.svg": "/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "index.html": "/index.html",
+    "main.243b895c.css.map": "/static/css/main.243b895c.css.map",
+    "main.f010fa79.js.map": "/static/js/main.f010fa79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243b895c.css",
+    "static/js/main.f010fa79.js"
+  ]
+}
